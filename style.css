@@ -15,6 +15,7 @@ body,
   transition: 0.3s;
   margin: 0;
   padding: 0;
+  /* text-align: center; */
 }
 
 /* main section */
@@ -23,11 +24,11 @@ main{
 }
 .container{
   display: flex;
-  margin: auto;
+  margin: 5em auto;
+  width: 70vw;
 }
 .container div{
   padding: 3em;
-  width: 12vw;
  
 }
 img{
@@ -111,9 +112,6 @@ button{
   }
   .container{
     flex-direction: column;
-  }
-  .container div{
-  width: 70vw;
   }
   .sedan{
     border-radius: 10px 10px 0 0;
