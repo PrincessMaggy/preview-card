@@ -1,3 +1,18 @@
+html,
+body {
+  font-size: 15px;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body,
+* {
+  transition: 0.3s;
+  margin: 0;
+  padding: 0;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;

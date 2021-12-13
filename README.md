@@ -29,8 +29,8 @@ A screenshot of the desktop view of the project is available in the directory.
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: ()
+- Live Site URL: ()
 
 ## My process
 
