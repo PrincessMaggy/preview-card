@@ -100,3 +100,31 @@ button{
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+
+/* media query */
+@media (max-width:768px){
+  body{
+    padding: 1em;
+    text-align: center;
+  }
+  .container{
+    flex-direction: column;
+  }
+  .container div{
+  width: 70vw;
+  }
+  .sedan{
+    border-radius: 10px 10px 0 0;
+    }
+  .luxury{
+    border-radius:0 0 10px 10px;
+}
+}
+
+@media (max-width:768px) and (min-width:1000px){
+  .container div{
+    width: 60vw;
+  }
+
+}
