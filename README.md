@@ -29,8 +29,8 @@ A screenshot of the desktop view of the project is available in the directory.
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/PrincessMaggy/preview-card)
+- Live Site URL: (https://princessmaggy.github.io/preview-card/)
 
 ## My process
 

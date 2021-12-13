@@ -23,6 +23,7 @@ main{
 }
 .container{
   display: flex;
+  margin: auto;
 }
 .container div{
   padding: 3em;
